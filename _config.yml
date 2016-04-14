@@ -24,9 +24,9 @@ port: 4006
 
 host: 127.0.0.1 
 
-url: "http://tomjohnson1492.github.io"
+url: "http://parpersson.github.io"
 
-feedback_email: tomjohnson1492@gmail.com
+feedback_email: brev@parpersson.se
 
 sidebar_accordion: true
 
